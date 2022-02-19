@@ -6,6 +6,6 @@
 Hi 👋 I am a Back-End developer and UI Designer. My country <img width="20" height="20" align="center" src="https://c.tenor.com/4rjzFvNwsYwAAAAj/turkey-flag.gif"> **Turkey**. 
 
 - 👀 Name: Yavuz C. (PonyX)
-- 🐺 Working on: @MagnetDev0 (TeamMagnet Founder and Developer).
+- 🐺 Working on: @TeamMagnet (TeamMagnet Founder and Developer).
 - 📚 Learning: React.js and Vue.js
 - 🖥️ [Discord Server](https://discord.gg/wjmAyqJmym) | [Website](https://ponyxdev.xyz/)
